@@ -2,6 +2,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//Had help on this one because I was getting frustrated, a friend who codes pushed me in the rigth direction for half of this.
+
 public class RectangleInfo {
 
     public static void main(String[] args) {
